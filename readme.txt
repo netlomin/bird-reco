@@ -1,0 +1,1 @@
+VGG16 model下载地址：https://download.pytorch.org/models/vgg16-397923af.pth
